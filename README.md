@@ -1,5 +1,7 @@
 # Starlight Starter Kit: Basics
 
+[![Deploy Astro site to GitHub Pages](https://github.com/danlang422/fullstack-dev-bootcamp-notes/actions/workflows/deploy.yml/badge.svg)](https://github.com/danlang422/fullstack-dev-bootcamp-notes/actions/workflows/deploy.yml)
+
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
 ```
